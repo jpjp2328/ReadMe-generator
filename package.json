@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Creating a command-line application that generates a professional ReadMe.md file from user input using node.js, npm and the inquirer package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpjp2328/ReadMe-generator.git"
+  },
+  "author": "jpjp2328",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpjp2328/ReadMe-generator/issues"
+  },
+  "homepage": "https://github.com/jpjp2328/ReadMe-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
