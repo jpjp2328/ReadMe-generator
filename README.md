@@ -1,8 +1,8 @@
-# test
-
+# ReadMe Demo
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-test
+Demo Video of ReadMe generator
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,19 +14,19 @@ test
 
 ## Installation
 To install necessary dependencies, run the following commands:
-test
+npm i
 
 ## Usage
-test
+Refer to this Demo Video
 
 ## License
-This project is licensed under the None license.
+This project is licensed under MIT license.
 
 ## Contribution
-test
+Contact me for info
 
 ## Tests
-test
+None at this moment
 
 ## Questions
-If you have any questions feel free to contact me directly at email@email.com. You can also find more of my work at my Github: [jpjp2328](https://github.com/jpjp2328/).
+If you have any questions feel free to contact me directly at jeffreyp2328@gmail.com. You can also find more of my work at my Github: [jpjp2328](https://github.com/jpjp2328/).
