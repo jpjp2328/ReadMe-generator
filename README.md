@@ -21,7 +21,7 @@ User would need to open Readme-generator file in the terminal, from there the us
 
 Refer to this Demo Video below to guide you:
 
-![](assets/demo_video.mp4)
+https://user-images.githubusercontent.com/110818668/195358368-7d2b1589-c999-4360-b58d-b2b79a2b7b30.mp4
 
 ## License
 This project is licensed under MIT license.
